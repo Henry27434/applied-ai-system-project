@@ -16,3 +16,5 @@
 2026-04-29 00:56:18,501 | INFO | OK | query='Do I Have any tasks for Bob' | confidence=0.95 | tokens=202+151
 2026-04-29 00:58:02,425 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-04-29 00:58:02,427 | INFO | OK | query='What is needed to be done for Sid' | confidence=0.85 | tokens=200+166
+2026-04-29 01:02:05,015 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 01:02:05,048 | INFO | OK | query='what tasks does moochi have?' | confidence=0.95 | tokens=197+136
