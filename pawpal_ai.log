@@ -1,0 +1,10 @@
+2026-04-28 23:27:30,017 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-28 23:27:30,019 | ERROR | ERROR | query='What does Mochi have scheduled today?' | error='API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaXMKvWsKi4q536yKBkGX'}'
+2026-04-28 23:31:35,076 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2026-04-28 23:31:35,079 | ERROR | ERROR | query='what does Moochi have tasked today?' | error='API error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CaXMdvgnarf62vaPtDs73'}'
+2026-04-28 23:32:40,408 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2026-04-28 23:32:40,411 | ERROR | ERROR | query='what does moochi have tasked today?' | error='API error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CaXMipjkCpeeYv2xEWkRN'}'
+2026-04-28 23:33:22,866 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 404 Not Found"
+2026-04-28 23:33:22,868 | ERROR | ERROR | query='What does Moochi have tasked today?' | error='API error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CaXMmx9a8u8CD3YG7EUMn'}'
+2026-04-28 23:35:27,712 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-28 23:35:27,740 | INFO | OK | query='What does moochi have tasked today?' | confidence=0.95 | tokens=199+101
