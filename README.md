@@ -1,3 +1,6 @@
+## Demo Video
+https://www.loom.com/share/d2fc7391a47d494a995a900a1002dc7e
+
 # PawPal+ Applied AI System
 
 PawPal+ is a pet care planning assistant that helps busy pet owners manage daily care tasks for their pets. It uses a RAG-powered AI chat assistant that reads your actual pet and task data before answering questions, so responses are personalized to your specific situation.

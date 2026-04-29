@@ -8,3 +8,11 @@
 2026-04-28 23:33:22,868 | ERROR | ERROR | query='What does Moochi have tasked today?' | error='API error: Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-sonnet-4-20250514'}, 'request_id': 'req_011CaXMmx9a8u8CD3YG7EUMn'}'
 2026-04-28 23:35:27,712 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-04-28 23:35:27,740 | INFO | OK | query='What does moochi have tasked today?' | confidence=0.95 | tokens=199+101
+2026-04-29 00:55:27,901 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 00:55:27,933 | INFO | OK | query='What tasks do i have for Bob' | confidence=0.95 | tokens=220+117
+2026-04-29 00:55:45,712 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 00:55:45,714 | INFO | OK | query='Do I have any tasks for Moochi 2' | confidence=0.98 | tokens=351+95
+2026-04-29 00:56:18,498 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 00:56:18,501 | INFO | OK | query='Do I Have any tasks for Bob' | confidence=0.95 | tokens=202+151
+2026-04-29 00:58:02,425 | INFO | HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-29 00:58:02,427 | INFO | OK | query='What is needed to be done for Sid' | confidence=0.85 | tokens=200+166
